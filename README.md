@@ -15,3 +15,11 @@
 ## eureka-server
 
 注册服务及发现服务
+
+## service-sms
+
+服务提供器，可考虑多启动几个用于负载均衡
+
+## service-web
+
+服务消费者，服务调用器。
